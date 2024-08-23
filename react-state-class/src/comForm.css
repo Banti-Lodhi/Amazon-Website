@@ -1,0 +1,25 @@
+h4 {
+  border: 1px solid red;
+  border-radius: 12px;
+  margin-top: 5px;
+  color: #FF4C4C;
+  background-color: #FFDE4D;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  font-style: italic;
+}
+.commentForm1 {
+  color: #C80036;
+  font-size: 1.2rem;
+}
+.btn {
+  color: red;
+  background-color: #8a2f47;
+}
+  
+  input, textarea {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    border-radius: 5px;
+  }

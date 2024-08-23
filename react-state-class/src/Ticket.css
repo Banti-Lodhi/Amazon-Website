@@ -1,0 +1,18 @@
+* {
+  background-color: bisque;
+}
+.Ticket {
+  border: 2px solid rgb(27, 189, 189);
+  border-radius: 25px;
+  width: 300px;
+  margin-bottom: 25px;
+  background-color: rgb(221, 158, 158);
+}
+p {
+  background-color: rgb(221, 158, 158);
+  color: green;
+  font-size: 1rem;
+  font-weight: bold;
+  display: block;
+  text-decoration: underline;
+}

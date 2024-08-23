@@ -1,0 +1,21 @@
+* {
+  background-color: #F6E6CB;
+}
+.comment {
+  border: 2px solid pink;
+  border-radius: 14px;
+  padding: 15px;
+  margin-bottom: 40px;
+  color: #B60071;
+}
+
+h2 {
+  border: 1px solid red;
+  border-radius: 12px;
+  margin-top: 5px;
+  color: #B60071;
+  background-color: #FFB200;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  font-style: italic;
+}
